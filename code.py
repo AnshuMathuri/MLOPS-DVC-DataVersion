@@ -26,5 +26,5 @@ file_path=os.path.join(data_dir,"sample_data.csv")
 
 # save the DataFrame to a CSV file, including columns names
 df.to_csv(file_path,index=False)
-
+  
 print(f"Csv file saved to {file_path}")
