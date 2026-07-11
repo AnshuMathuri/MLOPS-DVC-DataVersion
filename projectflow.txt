@@ -16,3 +16,7 @@
 13. Then git add-commit--push(we are saving v2 of data at this point)
 14. check dvc/git status,everything should be upto date
 15. Now repeat step 10-12 for v3 of data
+
+16.git log --oneline
+17.git checkout <hash> - git checkout master
+18.dvc pull
